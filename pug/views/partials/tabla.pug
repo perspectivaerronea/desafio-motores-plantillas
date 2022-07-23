@@ -1,0 +1,19 @@
+table(class="table table-dark table-striped table-hover table-responsive text-center")
+    thead
+        tr
+            th Producto
+            th Precio
+            th Imagen
+    
+    tbody
+        if listaProductos 
+            each pr in listaProductos
+                tr
+                    td(width="25%") #{pr.title}
+                    td(width="10%") #{pr.price}
+                    td(width="65%") 
+                        img(class="rounded mx-auto d-block", src=pr.thumbnail, width="100%", height="100%")
+        else    
+            tr  
+                td(colspan=3) No Hay productos
+        

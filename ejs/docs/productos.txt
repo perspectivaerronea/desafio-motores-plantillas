@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Superliminal",
+    "price": 185.61,
+    "thumbnail": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Superliminal.jpg",
+    "id": 1
+  },
+  {
+    "title": "The Stanley Parable: Ultra Deluxe",
+    "price": 161.99,
+    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1703340/capsule_616x353.jpg",
+    "id": 2
+  },
+  {
+    "title": "UnMetal",
+    "price": 1324.13,
+    "thumbnail": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_UnMetal_UnEpicFran_S1_2560x1440-d4a5a544334d56b219bba611d9f89ae1",
+    "id": 3
+  },
+  {
+    "title": "Satisfactory",
+    "price": 1648.35,
+    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/capsule_616x353.jpg",
+    "id": 4
+  },
+  {
+    "title": "NieR:Automata",
+    "price": 1072.49,
+    "thumbnail": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_auto/ncom/es_LA/games/switch/n/nier-automata-the-end-of-yorha-edition-switch/hero",
+    "id": 5
+  },
+  {
+    "title": "Gordian Quest",
+    "price": "225",
+    "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/981430/capsule_616x353.jpg",
+    "id": 6
+  },
+  {
+    "title": "test",
+    "price": "123213",
+    "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEBUTExISFhUWGB0VFRUVFRUWFxoVFRUXGhgYGBUbHSggGBolGxcVIjEhJyorLi4vGB8zODMtNygtLisBCgoKDg0OGxAQGy4mHyYwLS0tLy0tLy0tLS0wLS0tLS4rLS0tLS0tLS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKcBLQMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABAUCBgcDAQj/xABMEAABAwEEBQYLBgQEAwkAAAABAAIDEQQSITEFBkFRkRMiU2FxoQcUFjJSgZKxwdHSFSNCYoLwcqLT4SQzY8Jzo7I0NUNUZIOTs/H/xAAaAQEAAgMBAAAAAAAAAAAAAAAAAQIDBAUG/8QANxEAAgECAwQIBQMDBQAAAAAAAAECAxESITEEQVGREyJSYYGh0fAFFXGx4RSiwSMy8TNicoKS/9oADAMBAAIRAxEAPwDuKIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiKHpR5ELyM6U4kBTFXaRDdlcxk0kwGgvPP5BVfDpEDOOUfpUiyRNawBo2ceteFrtt03GC8/du7Vljhbso38faRR3Su2fWaSiI8+naCP/1ef2iXf5cbndZwHFeej7K145R5vuOdcgRsommra+GMOZGXYgYDIb8Nmz1hRPo4N5acdPLMtTjOo0lv096HqH2g/hjb2kn3FYySztFTyVBniR71IssxcwOcLtQCQcxhU13KKxvLuvO/y2nmt9I7z1fvepUlvSt9CrTWV3zMItND8TCOsGvcrGz2ljxVrgffwUXS0Y5KowLSC3qxCT2JrgHtNx2YIw4hGqclfTzIWJO2pYIq2z24g3JcHbCMnKbyw61jcGmXUkz1ReYmCyvjeq2Za5kiIgCIiAIvhK+XhvCAyREQBERAEREAREQBE",
+    "id": 7
+  }
+]

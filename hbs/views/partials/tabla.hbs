@@ -1,0 +1,22 @@
+<table class="table table-dark table-striped table-hover table-responsive text-center">
+    <thead>
+        <th>Producto</th>
+        <th>Precio</th>
+        <th>Imagen</th>
+    </thead>
+    <tbody>
+        {{#if listaProductos}}
+            {{#each listaProductos as |pr|}}
+                {{#> childEntry}}
+                    <tr >
+                        <td width="25%">{{pr.title}}</td>
+                        <td width="10%">{{pr.price}}</td>
+                        <td width="65%"><img class="rounded mx-auto d-block" src="{{pr.thumbnail}}" width="100%" height="100%" /></td>                
+                    </tr>
+                {{/childEntry}}
+            {{/each}}
+        {{else}}
+            <td colspan=3>No hay productos</td>
+        {{/if}}
+    </tbody>
+</table>
